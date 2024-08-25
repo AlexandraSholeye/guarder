@@ -1,0 +1,134 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.a{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+    padding: 2%;
+}
+.a1{
+    background-image: url(hero-bg.jpeg);
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: space-evenly;
+}
+.a2{
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+}
+.a3{
+    background-color: black;
+    height: 5%;
+    color: white;
+}
+h2:hover{
+ background-color: black;
+ height: 5%;
+ color: white;
+}
+.a4{
+   padding-left:  52%;
+}
+.a5{
+    background-color: yellow;
+    color: white;
+    height: 3em;
+    width: 20%;
+}
+.a5:hover{
+    background-color: white;
+    color: yellow;
+}
+.b{
+    background-color: rgb(23, 22, 22);
+    height: 80vh;
+
+}
+.b2{
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+}.b1{
+    background-color: white;
+    width: 25%;
+    height: 50vh;
+}
+.b3{
+    margin-left: 15%;
+}
+.b5{
+    color: white;
+    background-color: yellow;
+    height: 3em;
+    width: 30%;
+    margin-left: 25%;
+}
+.b5:hover{
+    background-color: white;
+    color: yellow
+}
+.b6{
+    
+   
+    background-repeat: no-repeat;
+    margin-left: 10%;
+}
+.b7{
+    background-image: url(contact-bgrt.jpeg);
+    height: 100vh;
+}
+.b8{
+   height: 7vh;
+   width: 50%;
+   font-size: larger;
+}
+.b9{
+    height: 20vh;
+    width: 50%;
+    font-size: larger;
+}
+.b0{
+    
+    color: white; 
+    height: 10vh;
+    width: 10%;
+}
+.b0:hover{
+    color: yellow;
+    border: solid 2px;
+    background-color: rgb(53, 51, 51);
+}
+.c1{
+    height: 6vh;
+    width: 10%;
+    background-color: yellow;
+    color: white;
+}
+.c1:hover{
+    color: yellow;
+    background-color: white;
+}
+.c2{
+    background-color: black;
+    height: 50vh;
+    color: white;
+    width: 100%;
+}
+.d{
+    display: flex;
+    justify-content: space-between;
+}
+.c3{
+    display: flex;
+    justify-content: space-evenly;
+    color: white;
+    background-color: black;
+    height: 40vh;
+}
